@@ -1,0 +1,255 @@
+Column,ID,Label,Description,Source,Class
+1,c0393,vat,hemoglobin protease,Escherichia coli O6:K2:H1 CFT073 (UPEC),Autotransporters
+2,APECO1_O1CoBM73,tsh,Tsh,Escherichia coli O1:K1:H7 (APEC),Autotransporters
+3,Q673F0_ECOLX,rpeA,putative SPATE autotransporter; similar to the SPATE proteins,Escherichia coli plasmid pRAP strain REPEC 83/39,Autotransporters
+4,ECSF_4010,ECSF_4010,phage protein,Escherichia coli SE15,Autotransporters
+5,EcSMS35_3921,EcSMS35_3921,outer membrane autotransporter,Escherichia coli SMS-3-5 (environmental),Autotransporters
+6,ECED1_2484,eaaA,serine protease autotransporter,Escherichia coli O81 ED1a (commensal),Autotransporters
+7,ECSF_4014,ECSF_4014,serine protease,Escherichia coli SE15,Autotransporters
+8,E2348C_2915,espC,serine protease,Escherichia coli O127:H6 E2348/69 (EPEC),Autotransporters
+9,c3619,sat,secreted auto transporter toxin,Escherichia coli O6:K2:H1 CFT073 (UPEC),Autotransporters
+10,EC55989_4682,EC55989_4682,Serine protease pet precursor (Plasmid-encoded toxin pet) (EC:3.4.21.72),Escherichia coli 55989 (EAEC),Autotransporters
+11,L7020,espP,putative exoprotein-precursor,Escherichia coli O157:H7 EDL933 (EHEC),Autotransporters
+12,AY258503,epeA,Autotransporter protease,Escherichia coli plasmid pO113 strain EH41,Autotransporters
+13,ECO103_3805,espI,secreted autotransporter serine protease,Escherichia coli O103:H2 12009 (EHEC),Autotransporters
+14,EcE24377A_E0051,eatA,secreted serine peptidase EatA,Escherichia coli O139:H28 E24377A (ETEC),Autotransporters
+15,O3M_26437,sepA,protease IgA1,Escherichia coli O104:H4 2009EL-2050,Autotransporters
+16,c0350,pic,Pic serine protease,Escherichia coli O6:K2:H1 CFT073 (UPEC),Autotransporters
+17,EC55989_4660,EC55989_4660,Serine protease pic precursor (ShMu),Escherichia coli 55989 (EAEC),Autotransporters
+18,c4424,upaG,adhesin,Escherichia coli O6:K2:H1 CFT073 (UPEC),Autotransporters
+19,z5029,ehaG,adhesin,Escherichia coli O157:H7 EDL933 (EHEC),Autotransporters
+20,AF325220,saa,STEC autoagglutinating adhesin,Escherichia coli plasmid pO113 strain 98NK2,Autotransporters
+21,EcSMS35_3187,EcSMS35_3187,putative immunoglobuling-binding protein,Escherichia coli SMS-3-5 (environmental),Autotransporters
+22,ECED1_1141,ECED1_1141,putative immunoglobulin-binding protein from phage origin,Escherichia coli O81 ED1a (commensal),Autotransporters
+23,ECUMN_0533,ECUMN_0533,putative adhesin/invasin-like protein,Escherichia coli O17:K52:H18 UMN026 (ExPEC),Autotransporters
+24,ECIAI39_0467,ECIAI39_0467,hypothetical protein,Escherichia coli O7:K1 IAI39 (ExPEC),Autotransporters
+25,ECED1_1678,eibA,Immunoglobulin-binding protein from phage origin,Escherichia coli O81 ED1a (commensal),Autotransporters
+26,AF151674,eibC,immunoglobulin-binding protein EibC,Enterobacteria phage P-EibC,Autotransporters
+27,ECED1_2077,eibD,Immunoglobulin-binding protein from prophage P-EibD,Escherichia coli O81 ED1a (commensal),Autotransporters
+28,AF151676,eibE,immunoglobulin-binding protein EibE,Enterobacteria phage P-EibE,Autotransporters
+29,AF399847,eibF,immunoglobulin-binding protein EibF,Escherichia coli bacteriophage P-EibF,Autotransporters
+30,AB255744,eibG,immunoglobulin binding protein,Escherichia coli strain ST91-1,Autotransporters
+31,c3655,fluA,antigen 43,Escherichia coli O6:K2:H1 CFT073 (UPEC),Autotransporters
+32,c1273,fluB,antigen 43,Escherichia coli O6:K2:H1 CFT073 (UPEC),Autotransporters
+33,c0426,upaB,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),Autotransporters
+34,c0478,upaC,structural protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),Autotransporters
+35,c2895,upaE,yapH-like protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),Autotransporters
+36,UTI89_C1627,entS,EntS/YbdA MFS transporter (EC:3.4.21.-),Escherichia coli O18:K1:H7 UTI89 (UPEC),Autotransporters
+37,c2775,yfaL,adhesin,Escherichia coli O6:K2:H1 CFT073 (UPEC),Autotransporters
+38,z0402,ehaA,beta-barrel outer membrane protein,Escherichia coli O157:H7 EDL933 (EHEC),Autotransporters
+39,z3948,ypjA,ABC transporter ATP-binding protein,Escherichia coli O157:H7 EDL933 (EHEC),Autotransporters
+40,z3449,yejO,ABC transporter ATP-binding protein,Escherichia coli O157:H7 EDL933 (EHEC),Autotransporters
+41,E2348C_2704,E2348C_2704,AidA autotransporter-like protein,Escherichia coli O127:H6 E2348/69 (EPEC),Autotransporters
+42,ECIAI39_1904,ECIAI39_1904,putative outer membrane autotransporter barrel; putative pectin lyase fold,Escherichia coli O7:K1 IAI39 (ExPEC),Autotransporters
+43,ECP_3185,ECP_3185,minor pilin protein,Escherichia coli O6:K15:H31 536 (UPEC),CU fimbriae
+44,EcE24377A_D0035,EcE24377A_D0035,fimbrial protein,Escherichia coli O139:H28 E24377A (ETEC),CU fimbriae
+45,c0405,matA,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+46,b3215,yhcA,putative periplasmic chaperone protein,Escherichia coli K-12 MG1655,CU fimbriae
+47,c5400,fimH,FimH protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+48,c1245,focH,F1C fimbrial adhesin,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+49,c1931,ydeQ,fimbrial-like protein ydeQ,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+50,b0941,elfG,putative fimbrial-like adhesin protein,Escherichia coli K-12 MG1655,CU fimbriae
+51,c4212,ycbS,outer membrane usher protein ycbS,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+52,b0533,sfmH,putative fimbrial-like adhesin protein,Escherichia coli K-12 MG1655,CU fimbriae
+53,z4966,z4966,fimbrial protein,Escherichia coli O157:H7 EDL933 (EHEC),CU fimbriae
+54,z5220,z5220,fimbrial protein,Escherichia coli O157:H7 EDL933 (EHEC),CU fimbriae
+55,ECSF_0166,ECSF_0166,putative fimbrial usher protein,Escherichia coli SE15,CU fimbriae
+56,b3145,yraK,putative fimbrial-like adhesin protein,Escherichia coli K-12 MG1655,CU fimbriae
+57,EC958_4610,EC958_4610,Putative fimbrial adhesin protein,Escherichia coli 958,CU fimbriae
+58,ECP_3817,ECP_3817,FasG-like protein,Escherichia coli O6:K15:H31 536 (UPEC),CU fimbriae
+59,ECSE_P3-0063,ECSE_P3-0063,putative fimbrial protein,Escherichia coli O152:H28 SE11 (commensal),CU fimbriae
+60,ECSE_P2-0005,ECSE_P2-0005,putative fimbrial protein,Escherichia coli O152:H28 SE11 (commensal),CU fimbriae
+61,pEC55989_0084,aafH,putative adhesin protein (aggA),Escherichia coli plasmid pHUSEC41-2,CU fimbriae
+62,pO86A1_p022,hdaA,HUS-associated diffuse adherence,Escherichia coli plasmid pO86A1,CU fimbriae
+63,EC958_tmp1,afaE,EC958_tmp1 AfaE protein,Escherichia coli 958,CU fimbriae
+64,c0170,htrE,outer membrane usher protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+65,pMAS2027_17,mrkD,MrkD type 3 fimbriae adhesin,Escherichia coli plasmid pMAS2027,CU fimbriae
+66,z1535,z1535,hypothetical protein,Escherichia coli O157:H7 EDL933 (EHEC),CU fimbriae
+67,pVir_100,pVir_100,putative fimbrial operon adhesin protein,Escherichia coli Vir68 plasmid pVir68,CU fimbriae
+68,c2636,yehB,outer membrane usher protein yehB,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+69,ECUMN_0018,ECUMN_0018,hypothetical protein,Escherichia coli O17:K52:H18 UMN026 (ExPEC),CU fimbriae
+70,pVir_11,pVir_11,F17 fimbrial adhesin protein,Escherichia coli Vir68 plasmid pVir68,CU fimbriae
+71,ECP_3782,ECP_3782,F17-like fimbril adhesin subunit,Escherichia coli O6:K15:H31 536 (UPEC),CU fimbriae
+72,ECSE_P3-0035,faeH,fimbrial protein FaeH,Escherichia coli O152:H28 SE11 (commensal),CU fimbriae
+73,EcSMS35_3924,FanF,putative fimbrial protein FanF,Escherichia coli SMS-3-5 (environmental),CU fimbriae
+74,c2878,yfcO,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+75,c3583,papG,PapG protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+76,c5179,papG_2,PapG protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+77,ECP_2966,pixG,PixG protein,Escherichia coli O6:K15:H31 536 (UPEC),CU fimbriae
+78,c3794,yqiH,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),CU fimbriae
+79,ECSE_3327,ECSE_3327,hypothetical protein,Escherichia coli O152:H28 SE11 (commensal),CU fimbriae
+80,z0868,ybgO,hypothetical protein,Escherichia coli O157:H7 EDL933 (EHEC),CU fimbriae
+81,c1250,iroN,outer membrane receptor FepA,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+82,c3610,iha,bifunctional enterobactin receptor/adhesin protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+83,c0669,fepA,outer membrane receptor FepA,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+84,c0890,fiu,catecholate siderophore receptor Fiu,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+85,c2690,cirA,colicin I receptor,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+86,c3623,iutA,IutA protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+87,c0185,fhuA,ferrichrome outer membrane transporter,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+88,c1374,fhuE,ferric-rhodotorulic acid outer membrane transporter,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+89,c2436,fyuA,pesticin receptor,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+90,c4308,chuA,outer membrane heme/hemoglobin receptor,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+91,c2482,hma,outer membrane receptor for iron compound or colicin,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+92,c1600,sitA,SitA protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+93,b4291,fecA,KpLE2 phage-like element; ferric citrate outer membrane transporter,Escherichia coli K-12 MG1655,Iron uptake
+94,c0133,c0133,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),Iron uptake
+95,AF320691,ireA,putative siderophore receptor IreA,Escherichia coli O4:K54:H5 (CP9),Iron uptake
+96,AB027193,usp,uropathogenic specific protein (putative virlence island of UPEC),Escherichia coli,Other virulence genes
+97,AF042279,iss,gene for increased serum survival (similar to Bacteriophage lambda Bor),Escherichia coli,Other virulence genes
+98,AF094824,ibeB,invasion gene locus (penetration of brain microvascular endothelial cells)- putative resistance protein- putative outer membrane lipoprotein of copper ion antiporter,Escherichia coli,Other virulence genes
+99,AF222188,tspE4.C2,anonymous fragment (putative lipase),Escherichia coli,Other virulence genes
+100,AF228488,fliC(H7),EH7 flagellin,Escherichia coli,Other virulence genes
+101,AY098990,ipaB,invasion plasmid antigen IpaB (ipaB) gene,Escherichia coli strain FBC124-13,Other virulence genes
+102,b1121,ycfZ,inner membrane protein,Escherichia coli K-12 MG1655,Other virulence genes
+103,b1432,insQ,IS609 transposase B,Escherichia coli K-12 MG1655,Other virulence genes
+104,c1301,csgE,curli assembly protein CsgE,Escherichia coli O6:K2:H1 CFT073 (UPEC),Other virulence genes
+105,c2013,malX,bifunctional PTS system maltose and glucose-specific transporter subunits IICB,Escherichia coli O6:K2:H1 CFT073 (UPEC),Other virulence genes
+106,c4968,yjaA,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),Other virulence genes
+107,ECUMN_3434,kpsM-II,polysialic acid transport protein,Escherichia coli O17:K52:H18 UMN026 (ExPEC),Other virulence genes
+108,ERGG_02642,kpsM-III,ABC-2 type transporter,Escherichia coli H489,Other virulence genes
+109,HMPREF0358_4244,kfiA,involved in the biosynthesis of K5 capsule,Escherichia coli 83972,Other virulence genes
+110,J01769,traT,complement resistance (traT) gene,Plasmid R100 (from E.coli),Other virulence genes
+111,J05023,neuA,CMP-N-acetylneuraminic acid synthetase (neuA) gene,E. coli,Other virulence genes
+112,L11241,astA,enteroaggregative heat-stable enterotoxin 1 (astA) gene,Escherichia coli,Other virulence genes
+113,L18946,invX,invasion protein- required for entry into HEp-2 cells,E. coli,Other virulence genes
+114,L27082,ccdB,cytotoxic protein (ccdB) gene,PK9CCDB Plasmid KIL19 (from E.coli),Other virulence genes
+115,M15677,bmaE,M-agglutinin subunit gene (bmaE),E. coli,Other virulence genes
+116,M55389,clpG,surface antigen (clp G) gene,E. coli,Other virulence genes
+117,M84026,neuC,involved in the biosynthesis of K1 capsule,E. coli,Other virulence genes
+118,O3O_15615,fliC(H4),Flagellin and related hook-associated proteins,Escherichia coli O104:H4 str. 2009EL-2071,Other virulence genes
+119,U07174,hra1,heat resistant agglutinin 1 gene,Escherichia coli O9:H10:K99,Other virulence genes
+120,UTI89_C5035,ibeA,invasion protein IbeA,Escherichia coli O18:K1:H7 UTI89 (UPEC),Other virulence genes
+121,V00307,ompA,codes for the outer membrane protein II*,E. coli,Other virulence genes
+122,X06903,ompT,ompT gene for outer membrane protease,E. coli,Other virulence genes
+123,Z1090,artJ,arginine ABC transporter substrate-binding protein,Escherichia coli O157:H7 EDL933 (EHEC),Other virulence genes
+124,Z1707,mviN,virulence factor,Escherichia coli O157:H7 EDL933 (EHEC),Other virulence genes
+125,Z54195,senB,role on enterotoxin production in enteroinvasive E. coli,E.coli,Other virulence genes
+126,c3570,hlyA,hemolysin A,Escherichia coli O6:K2:H1 CFT073 (UPEC),Toxins
+127,UTI89_c4921,cnf1,cytotoxic necrotizing factor 1,Escherichia coli O18:K1:H7 UTI89 (UPEC),Toxins
+128,UTI89_c2222,clbB,peptide/polyketide synthase,Escherichia coli O18:K1:H7 UTI89 (UPEC),Toxins
+129,c0363,tosA,RTX family exoprotein A gene,Escherichia coli O6:K2:H1 CFT073 (UPEC),Toxins
+130,c0295,c0295,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+131,c0296,c0296,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+132,c0297,c0297,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+133,c0375,c0375,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+134,c0638,c0638,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+135,c0646,c0646,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+136,c0691,ybdO,transcriptional regulator YbdO,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+137,c0758,c0758,hypthetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+138,c0761,c0761,dihydrodipicolinate synthase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+139,c0763,c0763,inner membrane protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+140,c0765,c0765,transcriptional regulator,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+141,c0807,c0807,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+142,c1647,modD,molybdenum transport protein ModD (EC:2.4.2.-),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+143,c1650,c1650,iron compound ABC transporter; ATP-binding protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+144,c1651,fecD,iron ABC transporter permease,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+145,c1761,c1761,acriflavin resistance protein A,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+146,c1762,c1762,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+147,c1766,c1766,membrane transporter,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+148,c1810,c1810,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+149,c1811,c1811,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+150,c1812,c1812,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+151,c1813,c1813,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+152,c2418,c2418,prophage P4 integrase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+153,c2419,c2419,salicylate synthase Irp9 (EC:4.1.3.27),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+154,c2420,c2420,cytoplasmic transmembrane protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+155,c2421,c2421,ABC transporter,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+156,c2422,c2422,inner membrane ABC-transporter,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+157,c2423,c2423,AraC type regulator,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+158,c2429,c2429,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+159,c2430,c2430,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+160,c2431,c2431,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+161,c2432,c2432,thioesterase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+162,c2434,c2434,salicyl-AMP ligase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+163,c2435,c2435,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+164,c2437,c2437,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+165,c2484,c2484,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+166,c2485,c2485,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+167,c2504,c2504,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+168,c2515,c2515,ABC transporter,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+169,c2516,c2516,ABC transporter,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+170,c2520,c2520,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+171,c2521,c2521,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+172,c2522,c2522,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+173,c2523,c2523,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+174,c2524,c2524,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+175,c2525,c2525,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+176,c3147,c3147,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+177,c3292,c3292,molybdenum-pterin-binding-protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+178,c3304,c3304,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+179,c3390,c3390,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+180,c3405,c3405,2-hydroxyacid dehydrogenase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+181,c3408,c3408,PTS system; maltose and glucose-specific IIABC component,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+182,c3509,c3509,ABC transporter ATP-binding protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+183,c3686,c3686,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+184,c3750,c3750,regulator,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+185,c3753,c3753,ureidoglycolate dehydrogenase (EC:1.1.1.154),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+186,c3755,c3755,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+187,c3756,ygiK,c4-dicarboxylate permease,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+188,c3770,c3770,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+189,c3771,c3771,iron ABC transporter substrate-binding protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+190,c3772,c3772,iron ABC transporter permease,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+191,c3773,c3773,iron ABC transporter permease,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+192,c3774,c3774,ferric enterobactin transport ATP-binding protein fepC,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+193,c3785,asst,arylsulfate sulfotransferase (EC:2.8.2.22),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+194,c4016,c4016,ribose ABC transporter ATP-binding protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+195,c4017,c4017,ribose ABC transporter,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+196,c4018,gatY,tagatose-bisphosphate aldolase (EC:4.1.2.2),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+197,c4205,c4205,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+198,c4307,chuS,heme/hemoglobin transport protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+199,c4313,chuT,periplasmic binding protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+200,c4314,chuW,coproporphyrinogen III oxidase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+201,c4315,chuX,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+202,c4316,chuY,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+203,c4317,chuU,iron ABC transporter permease,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+204,c4400,yiaN,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+205,c4481,c4481,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+206,c4482,c4482,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+207,c4483,c4483,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+208,c4484,c4484,aldolase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+209,c4485,c4485,PTS enzyme-II fructose,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+210,c4487,c4487,phosphotransferase system (PTS); fructose-specific,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+211,c4488,c4488,transcriptional antiterminator,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+212,c4580,c4580,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+213,c4735,c4735,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+214,c4757,c4757,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+215,c4758,c4758,PTS system; glucose-specific IIBC component,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+216,c4759,c4759,transketolase (EC:2.2.1.1),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+217,c4760,c4760,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+218,c4761,c4761,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+219,c4762,c4762,permease,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+220,c4763,c4763,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+221,c4764,c4764,carbamate kinase (EC:2.7.2.2),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+222,c4765,c4765,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+223,c4766,c4766,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+224,c4767,c4767,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+225,c4768,c4768,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+226,c4774,c4774,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+227,c4775,c4775,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+228,c4776,c4776,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+229,c4777,c4777,2-dehydro-3-deoxy-6-phosphogalactonate aldolase (EC:4.1.2.21),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+230,c4778,c4778,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+231,c4924,c4924,hippuricase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+232,c4925,c4925,citrate permease,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+233,c4981,c4981,oxidoreductase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+234,c4982,c4982,PTS system; mannose-specific IID component,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+235,c4983,c4983,PTS system; mannose-specific IIC component,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+236,c4984,c4984,sorbose PTS component,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+237,c4986,c4986,sorbitol-6-phosphate 2-dehydrogenase (EC:1.1.1.140),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+238,c4987,c4987,transcriptional regulator of sorbose uptake and utilization genes,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+239,c5032,sucA,2-oxoglutarate dehydrogenase E1 (EC:1.2.4.2),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+240,c5033,c5033,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+241,c5034,c5034,dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex (EC:2.3.1.61),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+242,c5035,c5035,2-oxoglutarate dehydrogenase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+243,c5036,c5036,succinyl-CoA synthetase subunit beta (EC:6.2.1.5),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+244,c5037,c5037,succinyl-CoA synthetase subunit alpha (EC:6.2.1.5),Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+245,c5038,c5038,membrane-bound protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+246,c5039,c5039,lactate dehydrogenase,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+247,c5040,c5040,c4-dicarboxylate transport transcriptional regulatory protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+248,c5060,c5060,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+249,c5061,c5061,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+250,c5077,yddO,ABC transporter ATP-binding protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+251,c5078,c5078,oligopeptide ABC transporter,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+252,c5079,yddQ,ABC transporter permease,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+253,c5080,yddR,ABC transporter permease,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
+254,c5081,c5081,hypothetical protein,Escherichia coli O6:K2:H1 CFT073 (UPEC),UPEC specific genes
