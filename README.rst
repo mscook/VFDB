@@ -76,7 +76,7 @@ includes pEC958.
 
 **fimB.fa:** Wild type *fimB* and *fimB* insertion. 
 
-**CTX-M.fa** 122 CTX-M-* genes extracted from on `Lahey Hospital and Medical
+**CTX-M.fa:** 122 CTX-M-* genes extracted from on `Lahey Hospital and Medical
 Centre database`_ on the 07/08/2013.
 
 **Antibiotics.fa and Antibiotics_EC958_CTX-M-15.fa:** 30 short 70'mers to 
