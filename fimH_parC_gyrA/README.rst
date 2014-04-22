@@ -14,21 +14,17 @@ The 7 alleles came from::
     J Bacteriol. Jan 2013; 195(2): 231–242.
     doi: 10.1128/JB.01524-12
 
-These are a 489-bp segment (referred to as the fimH typing region [fimHTR])
+These are a 489 bp segment (referred to as the fimH typing region [fimHTR])
 
-**fimH22:** gb|GQ487041.1|:21-509 Escherichia coli strain HSL030 minor component of type 1 fimbriae (fimH) gene, partial cds
+The alleles were extracted from GenBank::
 
-**fimH27:** gb|U00096.2|:4546894-4547382 Escherichia coli str. K-12 substr. MG1655, complete genome
-
-**fimH30:** gb|CP002797.2|:4712714-4713202 Escherichia coli NA114, complete genome
-
-**fimH31:** gb|FJ865843.1|:64-552 Escherichia coli strain TOP1002 type 1 fimbrial adhesin (fimH) gene, partial cds
-
-**fimH35:** gb|CP000802.1|:4553879-4554367 Escherichia coli HS, complete genome
-
-**fimH41:** gi|281177210:4641973-4642461 Escherichia coli SE15 DNA, complete genome
-
-**fimH94:** gb|FJ865709.1|:64-552 Escherichia coli strain TOP578 type 1 fimbrial adhesin (fimH) gene, partial cds
+    fimH22: gb|GQ487041.1|:21-509 Escherichia coli strain HSL030 minor component of type 1 fimbriae (fimH) gene, partial cds
+    fimH27: gb|U00096.2|:4546894-4547382 Escherichia coli str. K-12 substr. MG1655, complete genome
+    fimH30: gb|CP002797.2|:4712714-4713202 Escherichia coli NA114, complete genome
+    fimH31: gb|FJ865843.1|:64-552 Escherichia coli strain TOP1002 type 1 fimbrial adhesin (fimH) gene, partial cds
+    fimH35: gb|CP000802.1|:4553879-4554367 Escherichia coli HS, complete genome
+    fimH41: gi|281177210:4641973-4642461 Escherichia coli SE15 DNA, complete genome
+    fimH94: gb|FJ865709.1|:64-552 Escherichia coli strain TOP578 type 1 fimbrial adhesin (fimH) gene, partial cds
 
 
 parC.fa
